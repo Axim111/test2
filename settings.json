@@ -1,0 +1,39 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\Robot\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "workbench.colorTheme": "Community Material Theme Ocean",
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "launch": {
+    
+        "configurations": [],
+        "compounds": []
+    },
+    "[json]": {
+        "editor.defaultFormatter": null
+    },
+    "json.schemas": [
+
+    ],
+    "liveSassCompile.settings.useNewCompiler": false,
+    "liveSassCompile.settings.formats": [
+    
+        
+        
+
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css", //куда переместить
+            "savePathReplacementPairs": null
+        }
+    ]
+}
